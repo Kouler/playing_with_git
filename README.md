@@ -10,4 +10,19 @@
 
 
 ## Глава II 
-Лол, кек, чебурекы 
+Лол, кек, чебурек
+
+Смотри, как магу хеловорлд на *плюсах*...
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!\n";
+}
+```
+
+... и на *питоне*:
+
+```python
+println('Hello, world!')
+```
